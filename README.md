@@ -46,6 +46,7 @@
 # Contributions
 This project was contributed by a group member who involving in this projects.
 
-1. Harshda Sable
-2. Vidya Kudale 
-3. Rutuja Pawar
+1. Kajal Bankar
+2. Harshda Sable
+3. Vidya Kudale 
+4. Rutuja Pawar
